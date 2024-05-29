@@ -11,7 +11,7 @@ const Data = () => {
         Web Developer
       </h3>
       <p className="home_description">
-I'm  creative wev developer based in Maharashtra,India and I'm passionate and dedicated to my work. 
+I'm  creative web developer based in Maharashtra,India and I'm passionate and dedicated to my work. 
       </p>
       <a href="#contact" className="button button--flex">
          Say Hello <i class="fa-solid fa-paper-plane"></i>
