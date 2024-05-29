@@ -30,9 +30,6 @@ const Footer = () => {
             <a href="https://www.instagram.com/harsha_batra07?igsh=d2dzang4NjY2cmcz" className="footer_social_link" target="_blank">
               <i class="fa-brands fa-instagram"></i>
             </a>
-            <a href="#" className="footer_social_link" target="_blank">
-              <i class="fa-brands fa-twitter"></i>
-            </a>
             <a href="https://github.com/harshabatra7" className="footer_social_link" target="_blank">
               <i class="fa-brands fa-github"></i>
             </a>
